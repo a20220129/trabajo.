@@ -1,0 +1,8 @@
+h1{color:bisque; font-family: Verdana; font-size: 35px;}
+b{color:cadetblue; font-family: Verdana; font-size: 30px;}
+p{color: black; font-family: Verdana; font-size: 25px;}
+li{color: black; font-family: Verdana; font-size: 20px;}
+a:hover{color:brown;font-family: Verdana; font-size: 20px; background-color: black;}
+blockquote{color:aquamarine; font-family: Verdana; font-size: 25px;}
+table{margin:0 auto}
+body{background-image: url(fondo\ main.jpeg);}
